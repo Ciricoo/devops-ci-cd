@@ -116,7 +116,7 @@ O projeto está organizado em dois diretórios principais:
 3.  Use os comandos Git para enviar o código-fonte para seu **GitLab local**:
     ```bash
     git init
-    git remote add origin [http://gitlab.local/root/lab-devops.git](http://gitlab.local/root/lab-devops.git)
+    git remote add origin [http://gitlab.local/root/devops.git](http://gitlab.local/root/devops.git)
     git add .
     git commit -m "Commit inicial"
     git push -u origin main
